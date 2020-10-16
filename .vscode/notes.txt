@@ -1,0 +1,9 @@
+{
+	"name": "UNICEF Berlin",
+	"latitude": 52.5147879,
+	"longitude": 13.310297,
+	"about": "Non-governmental organization",
+	"instructions": "Come visit us",
+	"opening_hours": "24/7",
+	"open_on_weekends": true
+}
