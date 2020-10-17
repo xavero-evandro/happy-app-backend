@@ -6,4 +6,4 @@
 	"instructions": "Come visit us",
 	"opening_hours": "24/7",
 	"open_on_weekends": true
-}
+} 
